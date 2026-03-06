@@ -4,5 +4,8 @@
   "scripts": {
     "start": "node server/server.js",
     "install": "cd server && npm install"
+  },
+  "dependencies": {
+    "mongoose": "^9.2.4"
   }
 }
